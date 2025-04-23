@@ -10,7 +10,7 @@ import progressbar
 
 
 # synclibrivox repo parameters
-GITHUB_CONTENTS_URL = f'https://api.github.com/repos/r4victor/synclibrivox/contents/'
+GITHUB_CONTENTS_URL = f'https://api.github.com/repos/scillidan/synclibrivox/contents/'
 MAPPING_FILE = 'map.json'
 BOOKS_DIR = 'books'
 
